@@ -2,10 +2,10 @@
 # reddit_saved_to_csv.py - Exports your saved Posts and Comments on Reddit to a csv file.
 import praw, csv, codecs
 
-client_id='' # Enter your client ID
-client_secret='' # Enter you client secret
-username='' # Enter Username
-password='' # Enter password
+client_id='H0-mSA0XsWBIAfry_sCRkg' # Enter your client ID
+client_secret='zGpw-1hS9t47ejo5GLabFX1URajqfQ' # Enter you client secret
+username='Lumpyalien' # Enter Username
+password='@ZStS#GL.b~A6rv' # Enter password
 
 reddit = praw.Reddit(client_id=client_id,
                     client_secret=client_secret,
